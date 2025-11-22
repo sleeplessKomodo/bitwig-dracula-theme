@@ -2,4 +2,4 @@
 
 ![screenshot-one](/images/dracula.png)
 
-![screenshot-two](/images/dracula2)
+![screenshot-two](/images/dracula2.png)
